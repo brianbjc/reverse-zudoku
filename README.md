@@ -7,6 +7,13 @@ Clicking on cells with the least entropy is crucial to prevent the algorithm fro
 
 -------------
 
-Below are some functions that proved essential in programming this experiment. I hope they provide value to others exploring similar projects.
+Here are some images I generated while conceptualizing the algorithm. I hope you find them useful.
 
-![Screenshot_5](https://github.com/brianbjc/reverse-zudoku/assets/167697382/954402df-1b91-4d47-9c6c-ce13d446b4f0)
+
+![theory 1](https://github.com/brianbjc/reverse-zudoku/assets/167697382/d8c5b98c-bdc5-4558-9c05-8c2274d36ec6)
+
+
+![theory 2](https://github.com/brianbjc/reverse-zudoku/assets/167697382/a2dfb1be-6e96-46b1-8b03-deffed18e7c6)
+
+Thank you very much. 
+Brian.
